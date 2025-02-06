@@ -109,7 +109,7 @@ We welcome contributions! If you’d like to help improve the bot, feel free to 
 
 ## 👨‍💻 **Author**
 
-Developed by **dieharye** | [Telegram](https://t.me/midaBricoll)
+Developed by **Daniel Parks** | [Twitter](https://x.com/DanielParkweb3)
 
 🌟 **Happy Trading!** 🌟
 
